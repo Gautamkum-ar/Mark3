@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 60px;
+}
+.container h1 {
+  margin-bottom: 40px;
+}
+.container h2 {
+  margin: 40px;
+}
+.container p {
+  margin-bottom: 20px;
+}
